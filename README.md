@@ -1,3 +1,9 @@
+<div align="center">
+  
+# E-Wish
+  
+</div>
+
 <div align="justify">
 Aplikasi Laravel ini dirancang sebagai platform e-commerce khusus untuk mahasiswa di lingkungan Politeknik Negeri Malang (Polinema). User dapat login menggunakan NIM sebagai identitasnya. Fitur pembayaran hanya dapat dilakukan melalui Cash on Delivery (COD), yang artinya pembayaran dilakukan saat barang diterima oleh pembeli.
 
@@ -7,3 +13,11 @@ Admin memiliki akses untuk menyetujui atau menolak barang yang diajukan oleh pen
 
 Aplikasi ini memungkinkan mahasiswa untuk menjual atau membeli barang-barang dari mahasiswa lain di lingkungan Polinema dengan mudah dan aman. Aplikasi ini juga dapat membantu meningkatkan keterampilan mahasiswa dalam berbisnis serta mempermudah mahasiswa dalam memperoleh barang yang mereka butuhkan.
 </div>
+
+<div align="center">
+  
+# E-Wish WebView
+  
+</div>
+
+<img src="cover.png" />
