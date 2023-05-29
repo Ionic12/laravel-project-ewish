@@ -20,4 +20,4 @@ Aplikasi ini memungkinkan mahasiswa untuk menjual atau membeli barang-barang dar
   
 </div>
 
-<img src="cover.png" />
+<img src="Cover.png" />
